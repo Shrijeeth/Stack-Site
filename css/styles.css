@@ -1,0 +1,13 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  text-align: center;
+}
+
+.row{
+  padding: 15% 25% ;
+}
+
+.search-bar{
+  padding: 5% 28%;
+}
